@@ -37,7 +37,7 @@ No installation is needed. Simply open the `index.html` file in your preferred w
 
 ## Deployment Link
 
-githubpages
+https://nstepper.github.io/06-MoodyJudybetter/
 
 ## License
 
